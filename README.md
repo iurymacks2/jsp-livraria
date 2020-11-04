@@ -12,8 +12,6 @@
 # links para acesso local
 
 # http://localhost:8080/livraria-maven/livro.xhtml
-# http://localhost:8080/livraria-maven/autor.xhtml
-
 
 
 # (A) Projeto em JSF
