@@ -1,0 +1,8 @@
+com\nablasoftwares\livraria\bean\AutorBean.class
+com\nablasoftwares\livraria\modelo\Autor.class
+com\nablasoftwares\livraria\bean\LivroBean.class
+com\nablasoftwares\livraria\dao\JPAUtil.class
+com\nablasoftwares\livraria\dao\DAO.class
+com\nablasoftwares\livraria\dao\PopulaBanco.class
+com\nablasoftwares\livraria\modelo\Livro.class
+com\nablasoftwares\livraria\util\LogPhaseListener.class
