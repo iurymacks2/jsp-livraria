@@ -6,7 +6,7 @@
 ## depois dar run no arquivo  PopulaBanco.java (run Java Aplication)
 ## que cria alguns registross no banco de dados
 ## Instalar Tomcat 8.5
-## primeface 8.0
+## Instalar jar primefaces 8.0
 ## Projeto cconstruido com java 1.8
 
 ## links para acesso local
